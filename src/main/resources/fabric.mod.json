@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "fried_hud",
+	"version": "${version}",
+
+	"name": "Fried HUD",
+	"description": "Shuffle around and hide HUD elements to my own personal liking!",
+	"authors": [
+		"friedkeenan"
+	],
+
+	"license": "ISC",
+	"icon": "assets/fried_hud/icon.png",
+
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"io.github.friedkeenan.fried_hud.FriedHUDMod"
+		]
+	},
+
+	"mixins": [
+		{
+			"config": "fried_hud.mixins.json",
+			"environment": "client"
+		}
+	],
+
+	"depends": {
+		"fabricloader": ">=0.15.10",
+		"minecraft": "~1.20.5",
+		"java": ">=21"
+	}
+}

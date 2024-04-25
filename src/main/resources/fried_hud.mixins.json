@@ -1,0 +1,22 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "io.github.friedkeenan.fried_hud.mixin",
+    "compatibilityLevel": "JAVA_21",
+
+    "mixins": [
+        "CustomizeHUD",
+        "FlipFoodSprites",
+        "ShowHudOnSpawn",
+        "MoveSubtitleOverlay",
+        "MoveChatComponent",
+        "ExtendInventoryScreen",
+        "ExtendHorseInventoryScreen",
+        "ExtendCreativeModeInventoryScreen",
+        "ChangeTransparentBackground"
+    ],
+
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
