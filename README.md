@@ -37,6 +37,12 @@ It should be noted that this mod is not configurable because I have already conf
 
 ## Showcase
 
+https://github.com/friedkeenan/fried-hud/assets/20881398/ef9eae2e-766c-4ee5-8b0c-47cf7dc5fd19
+
+https://github.com/friedkeenan/fried-hud/assets/20881398/107bd2b7-a985-4c02-a666-8b1c11bb4434
+
+https://github.com/friedkeenan/fried-hud/assets/20881398/e0e74557-2425-4e30-b56d-131f0bf56343
+
 Player inventory:
 ![](screenshots/player_inventory.png)
 
