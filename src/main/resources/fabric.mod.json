@@ -9,6 +9,12 @@
 		"friedkeenan"
 	],
 
+	"contact": {
+        "homepage": "https://github.com/friedkeenan/fried-hud",
+        "sources": "https://github.com/friedkeenan/fried-hud",
+        "issues": "https://github.com/friedkeenan/fried-hud"
+    },
+
 	"license": "ISC",
 	"icon": "assets/fried_hud/icon.png",
 
